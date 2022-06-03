@@ -1,2 +1,3 @@
-# 02-Challenge
-Code refactor assignment of ESMT Coding Boot Camp
+# Code Refactor Project
+## About the project
+This is a ESMT Coding Boot Camp 
