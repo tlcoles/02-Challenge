@@ -19,6 +19,6 @@ This is a ESMT Coding Boot Camp project requiring the refactoring of code for a 
 * Insert and style section element to reduce IDs and classes to necessities
 
 ## Contact
-Tammi L. Coles
-Project link: https://github.com/tlcoles/02-Challenge
-Working copy: https://tlcoles.github.io/02-Challenge/
+Tammi L. Coles  
+Project link: https://github.com/tlcoles/02-Challenge  
+Working copy: https://tlcoles.github.io/02-Challenge/  
