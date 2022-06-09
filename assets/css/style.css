@@ -98,8 +98,7 @@ p {
     max-height: 200px;
 }
 
-
-/*  Style sidebar headers, text, and icons; reduce css repetition */
+/*  Style sidebar box, headers, text, and img icons; reduce css repetition */
 
 .benefits {
     margin-right: 20px;
@@ -127,7 +126,7 @@ p {
     max-width: 150px;
 }
 
-/* Style footer and reduce header ranking */
+/* Style footer and change header element for seo */
 
 .footer {
     padding: 30px;
