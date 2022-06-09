@@ -10,13 +10,13 @@ This is a ESMT Coding Boot Camp project requiring the refactoring of code for a 
 * Change title from "website" to "Horiseon"
 * Insert comments to improve information architecture (header, main, sidebar, footer)
 * Insert alt tags for all images, including main (hero) images and icons
-* Create sections to reduce unnecessary IDs and classes for main content items
+* Create sections to reduce unnecessary classes for main content items
 * Create "benefit" class to reduce unnecessary IDs and classes for sidebar items
 
 ### Changes to style.css
 * Reorganize CSS to improve comprehension
 * Reduce repetitions through better class groupings
-* Insert and style section element to reduce IDs and classes to necessities
+* Insert and style section element to reduce classes to necessities
 
 ## Contact
 Tammi L. Coles  
